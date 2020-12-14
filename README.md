@@ -4,13 +4,13 @@ A collection of my dotfiles for my bspwm setup. Running on Arch.
 
 Apps used:
 
-bspwm (window manager)
-dunst (notifications)
-rofi (application launcher)
-sxhkd (keyboard shortcuts)
-flameshot (snipping tool)
-kitty (terminal emulator)
-picom (compositor)
-htop (resource management)
-
+bspwm (window manager)<br>
+dunst (notifications)<br>
+rofi (application launcher)<br>
+sxhkd (keyboard shortcuts)<br>
+flameshot (snipping tool)<br>
+kitty (terminal emulator)<br>
+picom (compositor)<br>
+htop (resource management)<br>
+<br>
 Files coming soon
