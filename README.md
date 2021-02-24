@@ -1,6 +1,7 @@
 # bspwm
 
-A collection of my dotfiles for my bspwm setup. Running on Arch.
+A collection of my dotfiles for my Nord based bspwm setup. Running on Arch.
+Folder structure assumes all folders in the .config folder in the Home directory.
 
 Apps used:
 
@@ -13,4 +14,3 @@ kitty (terminal emulator)<br>
 picom (compositor)<br>
 htop (resource management)<br>
 <br>
-Files coming soon
